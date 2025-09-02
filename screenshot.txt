@@ -1,0 +1,12 @@
+Theme Screenshot Requirements:
+
+The screenshot.png should be 1200x900 pixels and showcase the theme's design.
+
+Recommended screenshot content:
+- Hero section with gradient background (blue to purple)
+- Modern card-based layout
+- Clean typography using Inter font
+- Responsive design elements
+- Professional color scheme
+
+The screenshot should represent the "Second Home Stories" theme accurately.
